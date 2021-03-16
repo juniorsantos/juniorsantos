@@ -1,10 +1,8 @@
-### Hi there 👋
-
 **About me**
 
-- 👋 Hi, I’m J.S.Júnior.
-- 🔭 I’m currently working on PuzlPlace
-- 📫 How to reach me: junior@puzl.place
+- 👋  Hi, I’m J.S.Júnior.
+- 🔭  I’m currently working on PuzlPlace
+- 📫  How to reach me: junior@puzl.place
 
 
 **Languages and tools:**
