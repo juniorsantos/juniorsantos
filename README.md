@@ -2,7 +2,7 @@
 
 - 👋  Hi, I’m J.S.Júnior.
 - 🔭  I’m currently working on PuzlPlace
-- 📫  How to reach me: junior@puzl.place
+- 📫  How to reach me: j.s.junior@live.com
 
 
 **Languages and tools:**
