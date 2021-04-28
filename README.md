@@ -24,7 +24,7 @@ Passionate and obsessed with learning, NodeJs, PHP (Laravel), Vue, ReactJs, Tail
 **What i'm learning?**
 
 - 🌱 I’m currently learning ...
-<img alt="Tailwind CSS" width="100" src="https://refactoringui.nyc3.cdn.digitaloceanspaces.com/tailwind-logo.svg">
+<img alt="Tailwind CSS" width="200" src="https://refactoringui.nyc3.cdn.digitaloceanspaces.com/tailwind-logo.svg">
 - ReactJS
 
 <h6>
