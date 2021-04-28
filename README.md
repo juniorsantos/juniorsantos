@@ -4,6 +4,10 @@
 - 🔭  I’m currently working on PuzlPlace
 - 📫  How to reach me: j.s.junior@live.com
 
+Enthusiast of the best web development technologies.
+Passionate and obsessed with learning, NodeJs, PHP (Laravel), Vue, ReactJs, TailwindCSS. Since 2006, learning never stops.
+
+"Knowledge is power" Francis Bacon (1561-1626)
 
 **Languages and tools:**
 
@@ -20,6 +24,8 @@
 **What i'm learning?**
 
 - 🌱 I’m currently learning ...
+- TailwindCSS
+- ReactJS
 
 <h6>
 </h6>
