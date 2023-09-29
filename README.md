@@ -1,7 +1,7 @@
 **About me**
 
 - 👋  Hi, I’m J.S.Júnior.
-- 🔭  I’m currently working on PuzlPlace
+- 🔭  I’m currently working on @PicPay
 - 📫  How to reach me: j.s.junior@live.com
 
 Enthusiast of the best web development technologies.
@@ -18,6 +18,7 @@ Passionate and obsessed with learning, NodeJs, PHP (Laravel), Vue, ReactJs, Tail
 <img align="left" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png">
 <img align="left" height="30" align="" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/linux.png">
 <img align="left" height="30" alt="TailwindCSS" src="https://refactoringui.nyc3.cdn.digitaloceanspaces.com/tailwind-logo.svg">
+<img align="left" height="30" alt="" src="[https://refactoringui.nyc3.cdn.digitaloceanspaces.com/tailwind-logo.svg](https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/oracle.svg)">
 <br>
 <br>
 </h4>
