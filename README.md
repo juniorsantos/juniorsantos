@@ -20,7 +20,6 @@ Passionate and obsessed with learning, NodeJs, PHP (Laravel), Vue, ReactJs, Tail
 <img align="left" height="30" alt="TailwindCSS" src="https://refactoringui.nyc3.cdn.digitaloceanspaces.com/tailwind-logo.svg">
 <img align="left" height="30" alt="" src="[https://refactoringui.nyc3.cdn.digitaloceanspaces.com/tailwind-logo.svg](https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/oracle.svg)">
 <br>
-<br>
 </h4>
 
 **What i'm learning?**
@@ -28,8 +27,7 @@ Passionate and obsessed with learning, NodeJs, PHP (Laravel), Vue, ReactJs, Tail
 - 🌱 I’m currently learning ...
 <h4>    
 <img alt="ReactJS" width="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
-<h4>
-</h6>
+</h4>
     
 
 <!--
