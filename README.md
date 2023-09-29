@@ -18,10 +18,17 @@ Passionate and obsessed with learning, NodeJs, PHP (Laravel), Vue, ReactJs, Tail
 <img align="left" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png">
 <img align="left" height="30" align="" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/linux.png">
 <img align="left" height="30" alt="TailwindCSS" src="https://refactoringui.nyc3.cdn.digitaloceanspaces.com/tailwind-logo.svg">
+</h4>
+</br>
+
+**Databases:**
+<h4>
 <img align="left" height="40" alt="" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/oracle.svg">
 <img align="left" height="40" alt="" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mysql.svg">
 <img align="left" height="40" alt="" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/postgresql.svg">
 </h4>
+
+
 
 **What i'm learning?**
 
