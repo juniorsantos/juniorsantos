@@ -27,9 +27,6 @@ Passionate and obsessed with learning, NodeJs, PHP (Laravel), Vue, ReactJs, Tail
 **What i'm learning?**
 
 - 🌱 I’m currently learning ...
-<h4>    
-<img alt="ReactJS" width="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
-</h4>
     
 
 <!--
