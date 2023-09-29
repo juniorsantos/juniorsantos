@@ -35,7 +35,9 @@ Passionate and obsessed with learning, NodeJs, PHP (Laravel), Vue, ReactJs, Tail
 **What i'm learning?**
 
 - 🌱 I’m currently learning ...
-- [<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg" height="50"/>](image.png)
+  [<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg" height="50"/>](image.png)
+
+  ![java](https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg =50x)
 
 <!--
 **juniorsantos/juniorsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
